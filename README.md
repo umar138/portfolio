@@ -29,7 +29,7 @@ No JavaScript or downloaded website templates have been used.
 ## 3. Project Structure
 
 ```text
-csc337_portfolio/
+portfolio/
 │
 ├── index.html
 ├── hobbies.html
@@ -41,8 +41,7 @@ csc337_portfolio/
 │
 ├── images/
 │   ├── umar.jpg
-│   ├── favicon.svg
-│   └── profile-illustration.svg
+│ 
 │
 └── README.md
 ```
